@@ -30,6 +30,6 @@
   "peerDependencies": {
     "react": ">=16.0.0",
     "react-native": ">=0.39.0",
-    "react-native-svg": "^6.3.1"
+    "react-native-svg": "6.2.2"
   }
 }
